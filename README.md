@@ -1,5 +1,5 @@
 # Narrative 2 Numbers (N2N) Hackathon, 2025
-Hosted by the [Preparedness & Response Institute](https://pandemicresponse.columbia.edu/)
+Hosted by the [Preparedness & Recovery Institute](https://pandemicresponse.columbia.edu/)
 
 October 11, 2025 | The Forum, Columbia University
 
